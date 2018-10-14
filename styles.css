@@ -1,0 +1,26 @@
+body {
+    background-color: #4c5d6d;
+}
+h1 {
+    color: blue;
+}
+p {
+    color: black;
+    font-size: 25px;
+}
+
+img {
+  border-radius: 50%;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+ul li {
+  font-size: 25px;
+}
